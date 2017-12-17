@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\surag\\Desktop\\Sarcasm_Detection_using_Tensorflow-master\\Sarcasm_Detection_using_Tensorflow-master\\model\\sarcasm_model.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\surag\\Desktop\\Sarcasm_Detection_using_Tensorflow-master\\Sarcasm_Detection_using_Tensorflow-master\\model\\sarcasm_model.ckpt"
